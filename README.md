@@ -7,6 +7,11 @@ Answer to question: Create a Flutter app and set-up a project at the Firebase co
 console. Print out the messages received and display them in either terminal or in Text
 or pop-up dialogs widgets in a design of your liking.
 
+Terminal output: 
+
+![terminal output](https://user-images.githubusercontent.com/51124192/140001674-baf16b91-c108-489d-817d-6d4d5eb82caa.png)
+
+
 
 ## Getting Started
 
