@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Answer to question: Create a Flutter app and set-up a project at the Firebase console. Prepare the app
+(Android only) to receive push notifications and start sending messages from the
+console. Print out the messages received and display them in either terminal or in Text
+or pop-up dialogs widgets in a design of your liking.
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
